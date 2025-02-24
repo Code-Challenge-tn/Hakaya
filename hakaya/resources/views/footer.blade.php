@@ -114,10 +114,13 @@
         <div class="footer__content text-right">
             <h3 class="footer__title">المعلومات</h3>
             <ul class="space-y-2">
-                <li><a href="#" class="footer__link">الفعاليات</a></li>
-                <li><a href="#" class="footer__link">اتصل بنا</a></li>
-                <li><a href="#" class="footer__link">سياسة الخصوصية</a></li>
-                <li><a href="#" class="footer__link">شروط الخدمة</a></li>
+            <li><a  class="footer__link">موقع "حكايا" نشر بواسطة :
+
+codechallengetn@gmail.com</a></li>
+                <li><a  class="footer__link">البريد الالكتروني : chaabanirym.journaliste@outlook.com</a></li>
+                <li><a  class="footer__link"> اتصل بنا : 530 319 23 </a></li>
+                
+                
             </ul>
         </div>
 

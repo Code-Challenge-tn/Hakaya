@@ -14,7 +14,7 @@ class LoginController extends Controller
         $password = $request->input('password');
 
         // Vérifier si l'email et le mot de passe sont "rim"
-        if ($email === 'rim' && $password === 'rim') {
+        if ($email === 'Hakayaprincipaladmin' && $password === 'Editing@Hakaya@site2025') {
             // Stocker l'information de connexion dans la session
             Session::put('user_logged_in', true);
             return redirect('/da'); // Redirection vers le dashboard
